@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @seismitix
-- 👀 I’m interested in DevSecOps
+- 👋 Hi, I’m @pwnstr
+- 👀 I’m interested in systems design
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
